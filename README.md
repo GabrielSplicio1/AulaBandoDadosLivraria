@@ -1,4 +1,4 @@
-# AulaBanCoDadosLivraria
+# AulaBancoDadosLivraria
 
 Ola sou o Gabriel vou apresentar meu banco de dados da Livraria 
 
