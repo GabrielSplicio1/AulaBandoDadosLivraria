@@ -36,7 +36,7 @@ Ola sou o Gabriel vou apresentar meu banco de dados da Livraria
  
  ![D2](https://github.com/user-attachments/assets/570987e3-1fcf-48a3-a00a-6460434cf0a3)
 
-# Tabelas do Canco de dados
+# Tabelas do Banco de dados
 
  •Aqui temos as tabelas criadas e tbm dados adicionados ao banco 
 
